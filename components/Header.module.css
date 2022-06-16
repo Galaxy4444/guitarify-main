@@ -1,0 +1,62 @@
+.header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding: 1em;
+    box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+    display: flex;
+    background-color: #1DB954;
+    display: grid;
+    grid-template-columns: 1fr 1fr 6fr 1fr 1fr; 
+    grid-gap: 3vw;
+
+}
+.header h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 6.4vw;
+    
+}
+
+@media only screen and (min-width: 600px) {
+    .header{
+        position: sticky;
+        top: 0;
+        width: 100%;
+        padding: 0.5em;
+        box-shadow: 0 1px 6px 0 rgb(0 0 0 / 20%);
+        display: flex;
+        background-color: #1DB954;
+        display: grid;
+        grid-template-columns: 1fr 1fr 6fr 1fr 1fr; 
+        grid-gap: 3vw;
+        
+    }
+    .header svg {
+        width: 4vw;
+        color: white;
+    
+    }
+    .header h1 {
+        color: white;
+        text-decoration: underline;
+        text-align: center;
+        font-size: 3vw;
+        
+    }
+}
+
+
+.header svg {
+    color: white;
+
+}
+
+
+
+.svg{
+    fill: none;
+    stroke: currentColor;
+    stroke-width: 2;
+}

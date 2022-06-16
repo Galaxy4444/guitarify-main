@@ -1,0 +1,20 @@
+.main{
+    text-align: center;
+    background-color: #535353;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.main h1{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+
+
+
+.tech{
+    padding-bottom: 10vw;
+}

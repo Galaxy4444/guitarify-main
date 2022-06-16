@@ -1,0 +1,54 @@
+
+.main{
+    text-align: center;
+    background-color: #535353;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+.main a{
+
+    background-color: #1DB954;
+    text-decoration: none;
+    border: solid 1px white;
+    color: white;
+}
+
+.main h2{
+    padding-top: 7%;
+}
+
+.techniquesLayout{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 5vw;
+    
+}
+
+.techniquesLayout img{
+    width:  80%;
+    height: 65vw;
+    object-fit: cover;
+    padding-top: 10%;
+}
+@media only screen and (min-width: 600px) {
+
+    .main h2{
+        padding-top: 7%;
+        font-size: 3vw;
+    }
+    .techniquesLayout{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding-bottom: 5vw;
+    }
+
+    .techniquesLayout img{
+        width:  50%;
+        height: 20vw;
+        object-fit: cover;
+        padding-top: 10%;
+    }
+        
+}

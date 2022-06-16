@@ -1,0 +1,47 @@
+.main img{
+    width: 80%;
+padding-bottom: 5vw;
+}
+
+.main{
+    padding-bottom: 10vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+}
+
+.main h2{
+    padding-bottom: 3vw;
+    padding-top: 4vw;
+
+}
+.songsGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.popularity{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 5vw;
+}
+
+.albumGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding-bottom: 5vw;
+}
+
+.space{
+    padding-bottom: 5vw;
+}
+@media only screen and (min-width: 600px) {
+
+    .albumGrid{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        padding-bottom: 5vw;
+    }
+
+
+}

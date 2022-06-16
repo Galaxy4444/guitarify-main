@@ -1,0 +1,47 @@
+.main img{
+    width: 80%;
+padding-bottom: 5vw;
+}
+
+.main{
+    padding-bottom: 10vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+}
+
+.main h2{
+    padding-bottom: 3vw;
+    padding-top: 4vw;
+
+}
+.songsGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.main a{
+    
+    background-color: #1DB954;
+    text-decoration: none;
+    border: solid 1px white;
+    color: white;
+}
+
+@media only screen and (min-width: 600px) {
+    .main img{
+        width: 30%;
+        padding-bottom: 5vw;
+    }
+
+    .songsGrid{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .main h2{
+        padding-bottom: 3vw;
+        padding-top: 1vw;
+    
+    }
+
+}

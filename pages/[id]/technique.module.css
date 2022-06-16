@@ -1,0 +1,64 @@
+.main{
+    text-align: center;
+    background-color: #535353;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.main h1{
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+}
+
+
+
+.tech{
+    padding-bottom: 10vw;
+}
+
+.barBorder{
+    width: 80vw;
+    height: 20vw;
+    border: solid 2px white;
+    margin-bottom: 10vw;
+}
+
+.bar {
+    background-color: #1DB954;
+    height: 100%;
+    margin-bottom: 3vw;
+    
+}
+@media only screen and (min-width: 600px) {
+
+    .main h1{
+        padding-top: 3vw;
+        padding-bottom: 3vw;
+    }
+
+    .tech{
+        padding-bottom: 5vw;
+    }
+    
+    .barBorder {
+        width: 40vw;
+        height: 2vw;
+        border: solid 2px white;
+        margin-bottom: 2vw;
+        margin-left: 25%;
+    }
+
+    .bar {
+        background-color: #1DB954;
+        height: 100%;
+        margin-bottom: 3vw;
+
+    }
+    .songsLayout{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+}

@@ -1,0 +1,31 @@
+.main{
+    text-align: center;
+    background-color: #535353;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+
+.main form{
+    padding-bottom: 10vw;
+}
+
+.main h1{
+    padding-top:5vw ;
+    padding-bottom: 5vw;
+}
+
+
+@media only screen and (min-width: 600px) {
+
+    .main form{
+        padding-bottom: 5vw;
+    }
+
+    .songLayout{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+        
+}

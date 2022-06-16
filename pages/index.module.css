@@ -1,0 +1,143 @@
+.index {
+    text-align: center;
+    background-color: #535353;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+
+.index img {
+    width: 80%;
+    height: 65vw;
+    object-fit: cover;
+}
+
+
+.index h2 {
+    padding-top: 5%;
+    font-size: 6vw;
+    padding-bottom: 15%;
+}
+
+.title {
+    padding-bottom: 7vw;
+    font-size: 6vw;
+}
+
+.barBorder {
+    width: 80vw;
+    height: 15vw;
+    border: solid 2px white;
+    margin-bottom: 10vw;
+    margin-left: 10%;
+}
+
+.bar {
+    background-color: #1DB954;
+    height: 100%;
+    margin-bottom: 3vw;
+
+}
+
+
+.pictureLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-decoration: none;
+    color: white;
+    padding-bottom: 15vw;
+}
+
+.pictureLayout a {
+    color: white;
+    font-size: 4vw;
+}
+
+.logOut {
+    border-radius: 20%;
+    background: #1DB954;
+    width: 50%;
+    margin-left: 25%;
+    color: white;
+
+}
+
+.logoutLink {
+    padding-bottom: 16%;
+}
+
+
+.logOut svg {
+    width: 17vw;
+}
+
+
+
+
+@media only screen and (min-width: 600px) {
+
+    .title {
+        padding-bottom: 3vw;
+        font-size: 4vw;
+    }
+
+    .index img {
+        width: 25%;
+        height: 30%;
+        object-fit: cover;
+    }
+
+
+    .barBorder {
+        width: 40vw;
+        height: 2vw;
+        border: solid 2px white;
+        margin-bottom: 8vw;
+        margin-left: 30%;
+    }
+
+    .bar {
+        background-color: #1DB954;
+        height: 100%;
+        margin-bottom: 3vw;
+
+    }
+
+    .pictureLayout {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        text-decoration: none;
+        color: white;
+        padding-bottom: 5vw;
+    }
+    .pictureLayout a {
+        color: white;
+        font-size: 3vw;
+    }
+
+
+    .index h2 {
+        padding-top: 5%;
+        font-size: 3vw;
+        padding-bottom: 3vw;
+    }
+
+    .logOut {
+        border-radius: 20%;
+        background: #1DB954;
+        width: 20%;
+        margin-left: 40%;
+        color: white;
+    
+    }
+    
+    .logoutLink {
+        padding-bottom: 10vw;
+    }
+    
+    
+    .logOut svg {
+        width: 5vw;
+    }
+}
