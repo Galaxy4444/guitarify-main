@@ -91,15 +91,15 @@ Es war teilweise schwierig die beste Lösung zu finden.
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Wie man React und Java besser anwendet
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Ich habe im Frontend Styling gemacht
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Ich habe viel kommuniziert und Lösungen gesucht
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Es war schwierig die richtigen farben zu finden
     
 ## Woche 2
 
@@ -131,13 +131,13 @@ Trotz unserer Erfahrung mit React hatten wir etwas Schwierigkeiten. Aus diesem G
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Wie man Flexbox benutzt
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Mit Flexbox die Tabellen gemacht
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Mit Internet und hilfe von Liam und Gentian
 Wo hatte ich Schwierigkeiten?
 Anfangs beim Styling aber Liam hat mir geholfen
 
@@ -171,13 +171,14 @@ Beim Schreiben der einzelnen Funktionen musste ich teilweise etwas grübeln, kon
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich habe ein bisschen im Backend geabreitet mit Json server
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Ich habe am Frontend geabreitet und mehr am Styling und cascading gemacht
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Ich habe mich zuerst informiert und dann ausgeführt
+
 Wo hatte ich Schwierigkeiten?
 Anfangs beim Styling aber Liam hat mir geholfen
 
@@ -211,15 +212,17 @@ Ich hatte keine grossen Schwierigkeiten in dieser Woche.
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich kannte bereits Reavt, nichts desto Trotz habe ich dort neues gelernt. Zudem weiss ich jetzt, wie man richtig mit einem Projekt startet.
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Wir haben in Team Entscheidungen für unsere Ideen getroffen. Ich habe bereits konkretere Mockups für unsere Page erstellt.
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Ich habe viel mit meinen Team Kollegen kommuniziert, darüber welche Lösung das beste für unser Projekt ist.
+
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Es war teilweise schwierig die beste Lösung zu finden.
+
 
 ## Woche 5
 
@@ -253,15 +256,15 @@ Ich bin der Meinung, dass JSON sehr einfach ist und keine grossen Vorkenntnisse 
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich weis wie man JSON server benutzt und das es wie ein kleines fake Backend ist.
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Ich habe den JSON server aufgesetzt.
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Ich habe zuerst ein Video geschaut und dann Step by step aufgesetzt.
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Mehrere Errors mit JSON server aber Stackoverflow kam zur Rettung.
 
 ## Woche 6
 
@@ -293,15 +296,15 @@ Die Arbeit mit CSS kann recht aufwendig sein. Ich musste darauf achten das die A
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich habe code formatting benutzt.
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Code formattiert das er besser aussieht.
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Mithilfe von Online Doumentation und Wissen vom Geschäft konnte ich das gut machen.
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Es ist eher schwierig zu wissen was man Löschen oder verbessern kann.
 
 ## Woche 7
 
@@ -333,15 +336,15 @@ Visual Code hat bereits nützliche Tools, die einem helfen Codes zu formatieren.
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich habe gelernt wie man besser stylen kann
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Ich habe kleinere Designprobleme gelöst und verschönert.
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Nach Fehler gesucht und sie dann behoben.
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Keine.
 
 ## Woche 8
 
@@ -373,15 +376,15 @@ Ich musste die Syntax für Markdown Dokumentationen zuerst etwas kennenlernen.
 
 ### Alex
 Was weiss/kann ich nun mehr als vor den Lektionen?
-Ich habe viel über IPERKA gelernt und wie man es anwendet
+Ich habe gelernt wie man eine gute Präsentation macht
 
 Was habe ich gemacht, ganz konkret?
-Ich habe am Frontend geabreitet
+Ich habe eine schöne Presentation in Prezi gemacht.
 
 Wie bin ich vorgegangen?
-Mit IPERKA
+Tutorial angeguckt und dan Prezi geacht
 Wo hatte ich Schwierigkeiten?
-Anfangs beim Styling aber Liam hat mir geholfen
+Anfangs war es sehr ungewohnt aber mit der Zeit ging es besser.
 
 
 # 9 Fazit
